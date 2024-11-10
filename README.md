@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Patrick Salsbury
-psalsbury@ucsd.edu
+Ethan Lin and Patrick Salsbury
